@@ -2,8 +2,18 @@
     box-sizing: border-box;
 }
 
+.box {
+    max-width: 800px;
+    margin: auto;
+    background-color: #424242;
+    border-radius: 4px;
+    box-shadow: 0 0 15px #212121;
+    padding: 0.3em;
+    padding-bottom: 2em;
+}
+
 body {
-    background-color:#424242;
+    background-color:#37474F;
 }
 
 .header {
